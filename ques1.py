@@ -1,5 +1,5 @@
 n=4
 m=5
 r=m+n
-print(r,m)
+print(r,m,n)
   
